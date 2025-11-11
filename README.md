@@ -3,7 +3,8 @@
 ![Image](https://i.ytimg.com/vi/UM5bxbosgD8/maxresdefault.jpg)
 
 ## 🧩 Overview
-This project performs an **Exploratory Data Analysis (EDA)** on the **Student Performance Dataset**
+This project performs an **Exploratory Data Analysis (EDA)** on the **Student Performance Dataset** that tabulates the scores of 1000 high school students from the United States.
+
 
 The main goal of this analysis is to understand how various factors — such as gender, parental education level, lunch type (as an indicator of the economic status), and test preparation — influence students’ performance in math, reading, and writing exams.  
 Through descriptive analysis and visualizations, this project aims to diagnose underlying patterns and extract meaningful insights from the data.
