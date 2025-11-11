@@ -10,17 +10,6 @@ Through descriptive analysis and visualizations, this project aims to diagnose u
 
 ---
 
-## 🧠 Objectives
-- Explore the dataset and add an additional column in which every sttudent's total scores is found  
-- Identify relationships between demographic variables (gender and race/ethnicity and academic performance.
-- Identify relationships between parents'education level and academic performance.
-- Identify relationships between taking the test preparation course and academic performance.    
-- Analyze correlations among math, reading, and writing scores.  
-- Visualize findings using graphs and plots.  
-- Extract meaningful insights from the data.
-
----
-
 ## 📂 Dataset Information
 
 **Source:** [Kaggle - Students Performance Dataset](https://www.kaggle.com/code/abdallahwagih/students-performance)
@@ -61,6 +50,27 @@ The dataset contains students’ scores in math, reading, and writing, along wit
 6. Some high school
 
 ---
+## 🧭 Hypotheses
+
+1. Female students get better scores compared to their male classmates.
+2. Students' ethnicity does not correlate with their scores.
+3. Students whose parent hold higher degrees obtain better scores.
+4. students eating standard lunch scored better than those eating a free/reduced price one.
+5. Students who took Test preparation course got higher scores.
+ 
+---
+
+## 🧠 Objectives
+- Explore the dataset and add an additional column in which every sttudent's total scores is found  
+- Identify relationships between demographic variables (gender and race/ethnicity and academic performance.
+- Identify relationships between parents'education level and academic performance.
+- Identify relationships between taking the test preparation course and academic performance.    
+- Analyze correlations among math, reading, and writing scores.  
+- Visualize findings using graphs and plots.  
+- Extract meaningful insights from the data.
+
+---
+
 
 ## 🏗️ Project Structure
 
