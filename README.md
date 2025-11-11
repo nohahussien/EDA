@@ -17,7 +17,7 @@ Through descriptive analysis and visualizations, this project aims to diagnose u
 - Identify relationships between taking the test preparation course and academic performance.    
 - Analyze correlations among math, reading, and writing scores.  
 - Visualize findings using graphs and plots.  
-- extract meaningful insights from the data.
+- Extract meaningful insights from the data.
 
 ---
 
@@ -53,12 +53,12 @@ The dataset contains students’ scores in math, reading, and writing, along wit
 ---
 
 **Highest education level attained by parent(s) (in a descending order)**
-1. master's degree
-2. bachelor's degree
-3. associate's degree
-4. some college
-5. high school
-6. some high school
+1. Master's degree
+2. Bachelor's degree
+3. Associate's degree
+4. Some college
+5. High school
+6. Some high school
 
 ---
 
@@ -98,7 +98,7 @@ student-performance-eda/
 
 ---
 
-🧾 Conclusion
+## 🧠 Conclusion
 This exploratory analysis highlights key demographic and socioeconomic factors influencing students’ academic performance.
 The findings could help educators and policymakers design targeted interventions (i.e., test preparation course) to support students’ learning outcomes.
 
