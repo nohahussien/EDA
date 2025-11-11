@@ -40,6 +40,27 @@ The dataset contains students’ scores in math, reading, and writing, along wit
 | `writing score` | Student’s writing test score |
 
 ---
+**Student’s racial/ethnic group:**
+
+| Group Letter | Meaning (common EEOC use)                                                                     |
+| ------------ | --------------------------------------------------------------------------------------------- |
+| Group A      | White (Not Hispanic)                                                                          |
+| Group B      | Black or African American                                                                     |
+| Group C      | Hispanic / Latino                                                                             |
+| Group D      | Asian                                                                                         |
+| Group E      | Native Hawaiian / Other Pacific Islander / American Indian / Alaskan Native                   |
+
+---
+
+**Highest education level attained by parent(s) (in a descending order)**
+1. master's degree
+2. bachelor's degree
+3. associate's degree
+4. some college
+5. high school
+6. some high school
+
+---
 
 ## 🏗️ Project Structure
 
@@ -57,6 +78,7 @@ student-performance-eda/
 ---
 
 ## 🧰 Tools & Libraries used
+
 - **Python 3.12.10**
 - **pandas**
 - **numpy**
