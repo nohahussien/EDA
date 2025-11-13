@@ -80,10 +80,7 @@ student-performance-eda/
 ├── data/
 │ └── StudentsPerformance.csv
 ├── notebooks/
-│ └── EDA_Student_Performance.ipynb
-├── images/
-│ ├── correlation_heatmap.png
-│ ├── score_distribution.png
+│ └── Student.ipynb
 
 
 ---
